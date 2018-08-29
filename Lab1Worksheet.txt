@@ -28,23 +28,12 @@ String name
 
 (v) Whether or not a nucleus has decayed; 
 
-boolean 
+boolean nucleusDecayed
 
 (vi) The probability that it could have decayed. 
 
 double probabilityDecayed
 
-3. Start to do a little java programming! 
-	Follow the example of the Hello.java program and do some testing of Java int and float.
-	Write a short class called “Arithmetic” that in its main method does the following:
-
-		Creates 4 local variables
-			Two ints (call them a and b)
-			Two floats (call them x and y)
-		Performs the following arithmetic operations on every combination of two of these 
-		and output using System.out.println each of the results
-			Addition
-			Division (in both directions)
 
 
 
