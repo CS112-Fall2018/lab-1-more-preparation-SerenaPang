@@ -2,8 +2,8 @@ Lab 1 Worksheet
 
 1. What if 12 bits were used to store a signed integer. What is the biggest/smallest possible integer?
 
-biggest 4095
-smallest -4096
+biggest 2047
+smallest -2048
 
 2. Think about possible values and their range, say what type of variable would be suitable for the following, and suggest a name for it too. 
 
@@ -16,11 +16,11 @@ int numBookPage
 
 (ii) The number of atoms in a book; 
 
-int numAtoms 
+long numAtoms 
 
 (iii) The length of a side of a triangle in inches; 
 
-double lenSide 
+float lenSide 
 
 (iv) Your name; 
 
@@ -32,7 +32,7 @@ boolean nucleusDecayed
 
 (vi) The probability that it could have decayed. 
 
-double probabilityDecayed
+float probabilityDecayed
 
 
 
