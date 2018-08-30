@@ -11,8 +11,22 @@ public static void main(String[] args) {
 
 
 System.out.println( a + b);
-System.out.println(a / b);
+System.out.println( a + x);
+System.out.println( a + y);
+
+System.out.println(x + b);
 System.out.println(x + y);
+
+
+
+System.out.println(a / b);
+System.out.println(a / x);
+System.out.println(a / y);
+
+
+System.out.println(b / a);
+System.out.println(b / x);
+System.out.println(b / y);
 System.out.println(x / y);
 
 }
